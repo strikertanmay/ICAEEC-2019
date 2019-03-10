@@ -1,0 +1,151 @@
+<div class="row">
+                <div class="col-sm-6 col-md-3">
+                    <figure class="thumbnail">
+                        <a href="#"><img src="img/img-team-1.jpg" class="img-responsive" alt="Image"></a>
+                        <figcaption class="caption text-center">
+                            <h3>Tom Hoffmann
+                                <small>Cintas</small>
+                            </h3>
+                            <ul class="social-links">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- /.col-sm-6 -->
+
+                <div class="col-sm-6 col-md-3">
+                    <figure class="thumbnail">
+                        <a href="#"><img src="img/img-team-2.jpg" class="img-responsive" alt="Image"></a>
+                        <figcaption class="caption text-center">
+                            <h3>Zoe Krämer
+                                <small>Earthlink</small>
+                            </h3>
+                            <ul class="social-links">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- /.col-sm-6 -->
+
+                <div class="col-sm-6 col-md-3">
+                    <figure class="thumbnail">
+                        <a href="#"><img src="img/img-team-3.jpg" class="img-responsive" alt="Image"></a>
+                        <figcaption class="caption text-center">
+                            <h3>Helena Kühn
+                                <small>Herman</small>
+                            </h3>
+                            <ul class="social-links">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- /.col-sm-6 -->
+
+                <div class="col-sm-6 col-md-3">
+                    <figure class="thumbnail">
+                        <a href="#"><img src="img/img-team-4.jpg" class="img-responsive" alt="Image"></a>
+                        <figcaption class="caption text-center">
+                            <h3>Leon Werner
+                                <small>Level</small>
+                            </h3>
+                            <ul class="social-links">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- /.col-sm-6 -->
+
+            </div>
+
+ <div class="row">
+                <div class="col-sm-6 col-md-3">
+                    <figure class="thumbnail">
+                        <a href="#"><img src="img/img-team-5.jpg" class="img-responsive" alt="Image"></a>
+                        <figcaption class="caption text-center">
+                            <h3>Alexander Ziegler
+                                <small>A.G. Edwards</small>
+                            </h3>
+                            <ul class="social-links">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- /.col-sm-6 -->
+
+                <div class="col-sm-6 col-md-3">
+                    <figure class="thumbnail">
+                        <a href="#"><img src="img/img-team-6.jpg" class="img-responsive" alt="Image"></a>
+                        <figcaption class="caption text-center">
+                            <h3>Benedikt
+                                <small>Fitch Co.</small>
+                            </h3>
+                            <ul class="social-links">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- /.col-sm-6 -->
+
+                <div class="col-sm-6 col-md-3">
+                    <figure class="thumbnail">
+                        <a href="#"><img src="img/img-team-7.jpg" class="img-responsive" alt="Image"></a>
+                        <figcaption class="caption text-center">
+                            <h3>Lara Hahn
+                                <small>Acterna</small>
+                            </h3>
+                            <ul class="social-links">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- /.col-sm-6 -->
+
+                <div class="col-sm-6 col-md-3">
+                    <figure class="thumbnail">
+                        <a href="#"><img src="img/img-team-8.jpg" class="img-responsive" alt="Image"></a>
+                        <figcaption class="caption text-center">
+                            <h3>Elias Friedrichs
+                                <small>Adolph</small>
+                            </h3>
+                            <ul class="social-links">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- /.col-sm-6 -->
+
+            </div>
