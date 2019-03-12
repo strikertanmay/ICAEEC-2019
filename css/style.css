@@ -1,9 +1,9 @@
 body {
     font-family : 'Roboto', sans-serif;
-    font-size   : 17px;
+    font-size   : 19px;
     line-height : 1.7em;
     color       : #353e55;
-    font-weight : 100;
+    font-weight : 300;
     background  : #ffffff;
     }
 
@@ -27,7 +27,7 @@ h2 {
 h3 {
     font-size   : 24px;
     line-height : 1.5em;
-    font-weight : 300;
+    font-weight : 400;
     }
 
 h4 {
@@ -260,7 +260,7 @@ button:focus,
     top                : 0;
     z-index            : 999;
     background         : #ffffff !important;
-    padding            : 5px 0;
+    padding            : 10px 0;
     box-shadow         : 0 2px 5px rgba(0, 0, 0, .1);
     -webkit-transition : all .5s ease-in-out;
     -moz-transition    : all .5s ease-in-out;
@@ -287,8 +287,9 @@ button:focus,
  *-------------------*/
 
 .jumbotron {
-    background            : url("../img/img-jumbotron-bg.jpg");
+    background            : url("../img/bg2.jpg");
     background-size       : cover;
+    opacity: 0.9;
     padding               : 0;
     margin                : 0;
     height                : 100vh;
@@ -302,7 +303,7 @@ button:focus,
     }
 
 .jumbotron .content {
-    color             : #ffffff;
+    color             :#fffb05;
     position          : absolute;
     top               : 50%;
     left              : 0;
@@ -317,7 +318,7 @@ button:focus,
     }
 
 .jumbotron .content h1 {
-    color       : #ffffff;
+    color       : #fffb05;
     font-weight : bold;
     font-size: 44px;
     margin-bottom: 40px;
@@ -326,8 +327,8 @@ button:focus,
 .jumbotron .content p.lead {
     font-size   : 26px;
     line-height : 1.5em;
-    color       :#fff;
-    font-weight: 400;   
+    color       :#fffb05;
+    font-weight: bold;   
     }
 
 .jumbotron .content .event-date {
