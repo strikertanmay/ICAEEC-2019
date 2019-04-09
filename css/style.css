@@ -305,7 +305,6 @@ button:focus,
 .jumbotron .content {
     color             :#fffb05;
     position          : absolute;
-    top               : 50%;
     left              : 0;
     right             : 0;
     height            : 30%;
